@@ -1,0 +1,4 @@
+object DmDados: TDmDados
+  Height = 480
+  Width = 640
+end

@@ -1,0 +1,14 @@
+program consultaCepProj;
+
+uses
+  Vcl.Forms,
+  consultaCep in 'consultaCep.pas' {frm_consultaCep};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tfrm_consultaCep, frm_consultaCep);
+  Application.Run;
+end.
