@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/12 13:32:39.000.187,=C:\Users\gustuevo\Desktop\dev\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 13:45:42.000.428,C:\Users\gustuevo\Desktop\dev\Unit1.pas=C:\Users\gustuevo\Desktop\dev\teste\consultaCep.pas</Transaction>
+    <Transaction>2024/10/12 13:45:42.000.428,C:\Users\gustuevo\Desktop\dev\Unit1.dfm=C:\Users\gustuevo\Desktop\dev\teste\consultaCep.dfm</Transaction>
+    <Transaction>2024/10/12 13:46:11.000.141,C:\Users\gustuevo\Desktop\dev\Project1.dproj=C:\Users\gustuevo\Desktop\dev\teste\consultaCepProj.dproj</Transaction>
+    <Transaction>2024/10/12 13:47:33.000.709,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:25:14.000.811,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:25:49.000.155,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:26:49.000.803,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:27:05.000.445,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:27:42.000.426,C:\Users\gustuevo\Desktop\dev\teste\unDados.dfm=C:\Users\gustuevo\Desktop\dev\teste\Unit1.dfm</Transaction>
+    <Transaction>2024/10/12 14:27:42.000.426,C:\Users\gustuevo\Desktop\dev\teste\unDados.pas=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:40:17.000.787,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:40:37.000.638,C:\Users\gustuevo\Desktop\dev\teste\unDados.pas=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 14:40:37.000.638,C:\Users\gustuevo\Desktop\dev\teste\unDados.dfm=C:\Users\gustuevo\Desktop\dev\teste\Unit1.dfm</Transaction>
+    <Transaction>2024/10/12 14:55:36.000.899,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 15:08:55.000.424,C:\Users\gustuevo\Desktop\dev\teste\unConexao.pas=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 15:08:55.000.424,C:\Users\gustuevo\Desktop\dev\teste\unConexao.dfm=C:\Users\gustuevo\Desktop\dev\teste\Unit1.dfm</Transaction>
+    <Transaction>2024/10/12 16:24:47.000.595,C:\Users\gustuevo\Desktop\dev\teste\unConexao.pas=</Transaction>
+    <Transaction>2024/10/12 19:47:00.000.484,=C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 19:51:15.000.703,C:\Users\gustuevo\Desktop\dev\teste\Unit1.dfm=C:\Users\gustuevo\Desktop\dev\teste\unConexao.dfm</Transaction>
+    <Transaction>2024/10/12 19:51:15.000.703,C:\Users\gustuevo\Desktop\dev\teste\Unit1.pas=C:\Users\gustuevo\Desktop\dev\teste\unConexao.pas</Transaction>
+  </Transactions>
+</BorlandProject>

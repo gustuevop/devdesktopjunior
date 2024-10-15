@@ -1,0 +1,22 @@
+object DmConexao: TDmConexao
+  Height = 480
+  Width = 640
+  object fd_conexao: TFDConnection
+    Left = 296
+    Top = 216
+  end
+  object pg_driver: TFDPhysPgDriverLink
+    Left = 376
+    Top = 224
+  end
+  object fd_cursor: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 480
+    Top = 240
+  end
+  object fd_query: TFDQuery
+    Connection = fd_conexao
+    Left = 432
+    Top = 368
+  end
+end

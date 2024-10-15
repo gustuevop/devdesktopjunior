@@ -1,0 +1,29 @@
+object DmConexao: TDmConexao
+  Height = 480
+  Width = 640
+  object fd_conexao: TFDConnection
+    Params.Strings = (
+      'Database=TspdCep'
+      'User_Name=postgres'
+      'Password=postgres'
+      'DriverID=PG')
+    LoginPrompt = False
+    Left = 296
+    Top = 216
+  end
+  object pg_driver: TFDPhysPgDriverLink
+    VendorHome = 'C:\Users\gustuevo\Desktop\dev\teste\lib'
+    Left = 376
+    Top = 224
+  end
+  object fd_cursor: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 480
+    Top = 240
+  end
+  object fd_query: TFDQuery
+    Connection = fd_conexao
+    Left = 432
+    Top = 368
+  end
+end
